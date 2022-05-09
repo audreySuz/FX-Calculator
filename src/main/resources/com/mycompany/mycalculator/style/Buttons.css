@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 28, 2021, 2:54:49 AM
+    Author     : Asuzu Audrey
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 4, 2021, 12:00:21 PM
+    Author     : Asuzu Audrey
+*/
+
+.but1:hover{
+    -fx-background-color:  #7b7b7b;
+     textFill : black;
+}
+
+.but2:hover{
+    -fx-background-color:  #7b7b7b;
+   -fx-color: black;
+}
+.but1 {
+    -fx-background-color:  #3d3d3d; 
+}
+.but2{
+    
+    -fx-background-color:  #ff7c03;
+    
+}
